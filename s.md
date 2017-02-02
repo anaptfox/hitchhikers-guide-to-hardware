@@ -6,6 +6,8 @@
 
 ## Serial
 
+## Servo
+
 ## Short Circuit
 
 [https:\/\/learn.sparkfun.com\/tutorials\/what-is-a-circuit\/short-and-open-circuits](https://learn.sparkfun.com/tutorials/what-is-a-circuit/short-and-open-circuits)
